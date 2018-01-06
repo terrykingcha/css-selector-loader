@@ -1,0 +1,25 @@
+{
+    "name": "css-selector-loader",
+    "version": "0.1.0",
+    "author": "Terry King @terrykingcha",
+    "description": "css selector loader module for webpack, load css selectors and their style into js",
+    "engines": {
+      "node": ">= 6.0.0"
+    },
+    "main": "index.js",
+    "files": [
+      "index.js"
+    ],
+    "dependencies": {
+      "jsonify-css": "^0.0.5",
+      "loader-utils": "^1.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {},
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:terrykingcha/css-selector-loader.git"
+    },
+    "license": "MIT"
+  }
+  
